@@ -1693,3 +1693,7 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.container a.logo img{
+  width: 100%;
+  height: auto;
+}
